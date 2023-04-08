@@ -1,6 +1,5 @@
-<h1 align = "center">Hi! I'm Naima Zafar :wave: <p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Courier&pause=1000&color=18EBF7&width=435&lines=Computer+Science+Student;UI/UX+Designer;Active+Sleeper;&center=true&width=500&height=50"> <h4 align="center">I am a 4th Year CS Student at FAST-NUCES in Islamabad, Pakistan, and my love for Sleeping knows no bounds.
+<h1 align = "center">Hi! I'm Naima Zafar :wave: <p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Courier&pause=1000&color=18EBF7&width=435&lines=Computer+Science+Student;UI/UX+Designer;&center=true&width=500&height=50"> <h4 align="center">I am a 4th Year CS Student at FAST-NUCES in Islamabad, Pakistan, and my love for Sleeping knows no bounds.
   <br>
-I am a member of THE BLOOD HEROS organiazation and we wish for you to join us in this journey.
   <br>
 If you want a motivated, versatile, and passionate team player, look further!</h4> <br>
   
